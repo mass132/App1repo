@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="shift_choice" table="x_501390_app1_shift_rotation" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>shift_choice</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>12am-6am</label>
+            <language>en</language>
+            <name>x_501390_app1_shift_rotation</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-04 12:10:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f06710442f595010c5a950492799b612</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-04 12:11:01</sys_updated_on>
+            <value>12am-6am</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>shift_choice</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>12pm-6pm</label>
+            <language>en</language>
+            <name>x_501390_app1_shift_rotation</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-04 12:09:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e3f6d8042f595010c5a950492799b6a1</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-04 12:09:55</sys_updated_on>
+            <value>12pm-6pm</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>shift_choice</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>6am-12pm</label>
+            <language>en</language>
+            <name>x_501390_app1_shift_rotation</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-04 12:08:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>24d690442f595010c5a950492799b62e</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-04 12:09:02</sys_updated_on>
+            <value>6am-12pm</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>shift_choice</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>6pm-12am</label>
+            <language>en</language>
+            <name>x_501390_app1_shift_rotation</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-04 12:10:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>624754c02f595010c5a950492799b680</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-04 12:10:24</sys_updated_on>
+            <value>6pm-12am</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>shift_choice</element>
+            <name>x_501390_app1_shift_rotation</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-04 12:08:32</sys_created_on>
+            <sys_id>57f618442f595010c5a950492799b6fa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>shift_choice</sys_name>
+            <sys_package display_value="App1" source="x_501390_app1">770c048c2f195010c5a950492799b60a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="App1">770c048c2f195010c5a950492799b60a</sys_scope>
+            <sys_update_name>sys_choice_x_501390_app1_shift_rotation_shift_choice</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-04 12:08:32</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

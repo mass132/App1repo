@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_501390_app1.shift_rotation_user" name="x_501390_app1.shift_rotation_user">a8d590c02f595010c5a950492799b63f</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-04 12:03:26</sys_created_on>
+        <sys_id>6cd598042f595010c5a950492799b64e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>a8d590c02f595010c5a950492799b63f</sys_name>
+        <sys_package display_value="App1" source="x_501390_app1">770c048c2f195010c5a950492799b60a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App1">770c048c2f195010c5a950492799b60a</sys_scope>
+        <sys_update_name>sys_embedded_help_role_6cd598042f595010c5a950492799b64e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-04 12:03:26</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

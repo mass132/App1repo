@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Shift rotation" max_length="40" name="x_501390_app1_shift_rotation" sizeclass="2" type="collection">
+        <element display="true" label="date" mandatory="true" max_length="40" name="date" type="glide_date"/>
+        <element label="Member" mandatory="true" max_length="40" name="member" reference="sys_user" type="string"/>
+        <element label="Remarks" max_length="400" name="remarks" type="translated_text"/>
+        <element choice="1" label="Shift Choice" mandatory="true" max_length="40" name="shift_choice" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="12am-6am" value="12am-6am"/>
+                <element inactive_on_update="false" label="12pm-6pm" value="12pm-6pm"/>
+                <element inactive_on_update="false" label="6am-12pm" value="6am-12pm"/>
+                <element inactive_on_update="false" label="6pm-12am" value="6pm-12am"/>
+            </choice>
+        </element>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>
